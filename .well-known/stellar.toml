@@ -1,9 +1,5 @@
 FEDERATION_SERVER="https://api.stellar.org/federation" 
 
-ACCOUNTS=["", 
-""
-] 
-
 [DOCUMENTATION] 
 ORG_NAME="Aplikasi Saham Terbaik" 
 ORG_URL="https://ipot.ajaib.stockbit.top" 
